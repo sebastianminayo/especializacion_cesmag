@@ -154,3 +154,6 @@ try:
     
 except FileNotFoundError:
     print("❌ No se encontró 'datos_sinteticos.csv'. Verifica que esté en la misma carpeta que el script.")
+
+
+    
