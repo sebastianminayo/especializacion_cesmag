@@ -16,4 +16,4 @@ El proyecto abarca varios temas relacionados con la educación y el desarrollo p
 Instrucciones sobre cómo configurar y utilizar el proyecto.
 
 ## Contribuciones
-Si deseas contribuir, por favor revisa las pautas de contribución dentro del repositorio. ssssss
+Si deseas contribuir, por favor revisa las pautas de contribución dentro del repositorio.
